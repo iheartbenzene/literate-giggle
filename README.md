@@ -1,4 +1,4 @@
-# literate-giggle
+# Gradient Descent
 Linear regresion using the gradient descent algorithm.
 
 Languages used:
